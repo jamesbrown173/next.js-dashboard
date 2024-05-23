@@ -35,6 +35,7 @@ export default async function Page({
       <div className="mt-5 flex w-full justify-center">
         <Pagination totalPages={totalPages} />
       </div>
+      <div className"mt-5 w-full justify-center"> <p>You can delete this line it's just for testing the git commit</p> </div>
     </div>
   );
 }
