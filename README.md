@@ -1,4 +1,4 @@
-#next.js customer management dashboard
+# Next.js customer management dashboard
 
 This is a financial dashboard that allows you to add, read and update invoices for customers. 
 
